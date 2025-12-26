@@ -1,6 +1,9 @@
 # ScrapePilot 🧠🌐
 AI Powered Web Scraper | Python + Selenium + Streamlit
 
+<img src="assets/ss01.png" width="700"/>
+<img src="assets/ss02.png" width="700"/>
+
 ### Features
 - AI-based (ollama3.2) DOM parsing
 - Proxy + headless browser scraping
@@ -17,3 +20,4 @@ streamlit run main.py
 yaml
 Copy code
 ```
+
