@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Environments ----
+.env
+*.env
+ai/
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Sensitive / Credentials ----
+*.key
+*.pem
+
+# ---- Binary Files ----
+chromedriver.exe
+*.exe
+*.dll
+*.so
+
+# ---- Streamlit Temp ----
+.streamlit/
+
+# ---- OS Crap ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE Stuff ----
+.vscode/
+.idea/
+
+# ---- Logs ----
+*.log
